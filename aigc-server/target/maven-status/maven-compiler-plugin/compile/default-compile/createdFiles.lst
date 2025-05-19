@@ -1,0 +1,12 @@
+com\aigc\config\WebMvcConfiguration.class
+com\aigc\handler\GlobalExceptionHandler.class
+com\aigc\config\RestTemplateConfig.class
+com\aigc\controller\CheckController.class
+com\aigc\controller\UserController.class
+com\aigc\Application.class
+com\aigc\config\CommonConfig.class
+com\aigc\service\impl\CheckServiceImpl.class
+com\aigc\service\CheckService.class
+com\aigc\interceptor\JwtTokenUserInterceptor.class
+com\aigc\service\UserService.class
+com\aigc\service\impl\UserServiceImpl.class

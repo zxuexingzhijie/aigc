@@ -1,0 +1,10 @@
+com\aigc\mapper\UserMapper.class
+com\aigc\vo\respvo\LoginRespVo.class
+com\aigc\vo\reqvo\LoginReqVo.class
+com\aigc\entity\User$UserBuilder.class
+com\aigc\vo\respvo\LoginRespVo$LoginRespVoBuilder.class
+com\aigc\vo\respvo\AnalysisResult.class
+com\aigc\vo\respvo\Detail.class
+com\aigc\vo\reqvo\UserReqVo.class
+com\aigc\result\Result.class
+com\aigc\entity\User.class
